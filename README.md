@@ -14,3 +14,5 @@ jigsaw puzzle game.拼图小游戏
 4. 快捷键
    (1)显示完整图片：按下A
    (2)直接过关：按下W
+# 游戏界面
+![image](https://github.com/CCCshengjiang/JigsawGame/assets/131572324/d990f67e-6a98-40ef-ad4a-6760fe96905d)
